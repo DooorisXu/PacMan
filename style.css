@@ -17,8 +17,9 @@
     visibility: hidden;
 }
 
-h1{font-family:BDCartoonShoutRegular;
-text-align: ceter;
+h1{
+    font-family:BDCartoonShoutRegular;
+    text-align:center;
 }
 
 body{
